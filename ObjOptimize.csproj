@@ -3,6 +3,11 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Opti1337</Authors>
+    <Company>Koptilnya</Company>
+    <RepositoryUrl>https://github.com/koptilnya/obj-optimize</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
 
 </Project>
