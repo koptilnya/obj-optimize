@@ -1,0 +1,1 @@
+This app used for Garry's Mod Prop2Mesh addon.
